@@ -1,0 +1,18 @@
+{
+  "files": {
+    "commands/volume.js": [
+      {
+        "id": "9e22b1b7-f733-4295-8f65-619f4d1b1cf8",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "57abde76-f507-47f7-b990-cc3edaa60413",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}

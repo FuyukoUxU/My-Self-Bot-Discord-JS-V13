@@ -1,0 +1,27 @@
+{
+    "permissionDenied": "> `❌` **Bạn không có quyền chạy lệnh này, hãy nhắn tin cho FuyukoUxU#3145 để được cấp quyền chạy lệnh nhé :>**",
+    "notInVocal" : "> `❌` **Bạn phải ở trong một kênh thoại để làm điều này**",
+    "noArgsSongSearch" : "> `❌` **Bạn cần cung cấp url bài hát hoặc từ khóa của bài hát**",
+    "nothingPlaying": "> `❌` **Không có bài hát nào đang được phát**",
+    "noSongsQueued": "> `❌` **Không có bài hát nào được xếp hàng đợi**",
+    "cantLoop": "> `❌` **Bạn cần có một bài hát đang phát để lặp lại nó**",
+    "badUrl": "> `❌` **Liên kết được cung cấp không hợp lệ**",
+    "errorJoin": "> `❌` **Cần phát 1 bài hát để bot thay đổi kênh**",
+    "noVolume": "> `❌` **Bạn cần cung cấp số volume muốn thay đổi**",
+    "nothingPlayingVolume": "> `❌` **Bạn cần có một bài hát đang phát để thay đổi âm lượng**",
+    "toMuchArgsVolume": "> `❌` **Quá nhiều số, vui lòng cung cấp một số**",
+    "volumeToHigh": "> `❌` **Âm lượng không được trên [10]**",
+    "noNumber": "> `❌` **Bạn cần cung cấp số (1 --> 10)**",
+    "earrapeFail": "> `❌` **Đã có lỗi xảy ra !**",
+    "startedPlaying":  "```\n✅ Bắt đầu phát nhạc```\n> **SONG_TITLE**",
+    "songAddedToQueue": "```\n✅ Đã thêm bài hát vào hàng đợi```\n> **SONG_TITLE**",
+    "musicStopped": "```\n✅ Đã dừng phát nhạc```",
+    "musicSkipped": "```\n✅ Đã bỏ qua bài hát```", 
+    "loopOn": "```\n🔂 | Đã bật!```",
+    "loopOff": "```\n🔂 | Đã tắt!```",
+    "joinMsg": "```\n✅ Tham gia kênh thành công ```",
+    "volumeChanged": "```\n✅ Thay đổi âm lượng thành công```",
+    "musicsQueued": "```\n🎵 Danh sách nhạc 🎵 ```",
+    "deep": "```\n✅ | Áp dụng thành công hiệu ứng nhạc Bassboost```",
+    "wrong": "Đã có lỗi xảy ra !"
+}
